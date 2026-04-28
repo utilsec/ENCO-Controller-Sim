@@ -1,4 +1,4 @@
-# ENCO-SIM: Apartment Hydronic Heating SCADA Simulator
+# ENCO-SIM: Apartment Building Heating SCADA Simulator
 
 A vibe-coded ICS training simulator that emulates a small apartment-building hydronic heating system, complete with a Modbus/TCP slave, Telnet management interface, and a web-based HMI. Built for OT/ICS cybersecurity exercises — red teamers get realistic protocols to attack, blue teamers get a working physics model and defensive monitoring to detect the attacks.
 
